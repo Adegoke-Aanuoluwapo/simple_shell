@@ -1,2 +1,1 @@
-# simple_shell
-This Repo is for Simple Shell Task
+My first readme for simple shell
